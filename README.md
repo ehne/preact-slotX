@@ -47,4 +47,5 @@ by copying and pasting:
 
 ---
 > made by [darcy lugt-falk](https://github.com/ehne)
+
 > logo background image: <a title="galaxy effect png 3" href="https://pngimage.net/galaxy-effect-png-3/">galaxy effect png 3</a>
