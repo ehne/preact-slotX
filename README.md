@@ -16,7 +16,7 @@
 basically just reimplements [preact-slots](https://npm.im/preact-slots), for Preact X
 
 ```jsx
-import { SlotProvider, Slot, SlotContent } from 'preact-slotx'
+import { SlotProvider, Slot, SlotContent } from '@ehne/preact-slotx'
  
 render(
     <SlotProvider>
