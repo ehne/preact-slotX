@@ -1,0 +1,17 @@
+{
+  "name": "preact-slotx",
+  "version": "1.0.0",
+  "description": "preact-slots brought up to date with Preact X",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "preact"
+  ],
+  "author": "darcy lf",
+  "license": "MIT",
+  "devDependencies": {
+    "microbundle": "^0.12.4"
+  }
+}
