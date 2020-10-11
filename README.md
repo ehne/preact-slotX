@@ -1,5 +1,5 @@
 <p>
-  <img alt="logo" src="./github_banner.png" align="center" />
+  <img alt="logo" src="https://github.com/ehne/preact-slotX/raw/master/github_banner.png" align="center" />
 </p>
 <h1 align="center">
   Welcome to Preact Slot X 👋
