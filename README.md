@@ -5,11 +5,11 @@
   Welcome to Preact Slot X 👋
 </h1>
 <p align="center">
-    <a href="#" target="https://npm.im/@ehne/preact-slotx">
+    <a href="https://npm.im/@ehne/preact-slotx">
         <img alt="Version" src="https://img.shields.io/npm/v/@ehne/preact-slotx" />
     </a>
-    <a href="#" target="https://bundlephobia.com/result?p=@ehne/preact-slotx@1.2.0">
-        <img alt="Size" src="https://img.shields.io/badge/MINIFIED%20%2B%20GZIPPED-1kB-green" />
+    <a href="https://bundlephobia.com/result?p=@ehne/preact-slotx">
+        <img alt="Size" src="https://img.shields.io/badge/MINIFIED%20%2B%20GZIPPED-420%20B-green" />
     </a>
 </p>
 
@@ -44,6 +44,8 @@ $ npm install @ehne/preact-slotx
 by copying and pasting:
 * just copy the file in src/index.js into your code somewhere.
 * remove exports from the functions if you aren't keeping preact slot x as a seperate file.
+
+
 
 ---
 > made by [darcy lugt-falk](https://github.com/ehne)
