@@ -5,9 +5,6 @@
   Welcome to Preact Slot X 👋
 </h1>
 <p align="center">
-    <a href="https://npm.im/@ehne/preact-slotx">
-        <img alt="Version" src="https://img.shields.io/npm/v/@ehne/preact-slotx" />
-    </a>
     <a href="https://bundlephobia.com/result?p=@ehne/preact-slotx">
         <img alt="Size" src="https://img.shields.io/badge/MINIFIED%20%2B%20GZIPPED-420%20B-green" />
     </a>
@@ -48,6 +45,6 @@ by copying and pasting:
 
 
 ---
-> made by [darcy lugt-falk](https://github.com/ehne)
+> made by [@ehne](https://github.com/ehne)
 
 > logo background image: <a title="galaxy effect png 3" href="https://pngimage.net/galaxy-effect-png-3/">galaxy effect png 3</a>
